@@ -9,7 +9,6 @@ To run these tests, you need:
 - JDK >=6
 - Git
 - Maven
-- a running Elastic Search node.
 
 Download the project
 -------
