@@ -29,19 +29,26 @@ mvn test
 Test cases
 -------
 
-- First test: 751 cities are indexed, then perform a search to find cities far by 1000 km from Paris. 
+###  First test: 
+
+751 cities are indexed, then perform a search to find cities far by 1000 km from Paris. 
 Search results are showed in reversed order (the farthest displayed first).
 
 The list of cities is stored in `src/test/resources/cities.txt`
 
 Search parameters can be changed, using the following constants:
+
 `NB_MAX_RESULTS` (default : 200)
+
 `ORIGIN_CITY_LON` (default : 2.34 - Paris longitude)
+
 `ORIGIN_CITY_LAT` (default : 48.86 - Paris lattitude)
+
 `DISTANCE_FROM_ORIGIN` (default : 1000)
+
 `DISTANCE_UNIT` (default : DistanceUnit.KILOMETERS)
 
-- more tests to come.
+###  more tests to come.
 
 Some code snippets are taken from tests provided by David Pilato (aka dadoonet):
 https://github.com/elasticsearchfr/elasticsearch-java-tests
