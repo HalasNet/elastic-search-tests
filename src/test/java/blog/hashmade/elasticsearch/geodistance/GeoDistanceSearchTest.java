@@ -1,4 +1,4 @@
-package blog.hashmade.elasticsearch.geospatial;
+package blog.hashmade.elasticsearch.geodistance;
 
 import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
 
@@ -44,7 +44,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * <br>see http://www.elasticsearch.org/guide/reference/java-api/search.html
  * <br>see http://www.elasticsearch.org/guide/reference/query-dsl/geo-distance-filter/
  */
-public class GeoDistanceSearch extends StartNode {
+public class GeoDistanceSearchTest extends StartNode {
   
   private static final int NB_MAX_RESULTS = 200;
   private static final double ORIGIN_CITY_LON = 2.34;  // Paris longitude(2.34)
@@ -52,7 +52,7 @@ public class GeoDistanceSearch extends StartNode {
   private static final int DISTANCE_FROM_ORIGIN = 1000;
   private static final DistanceUnit DISTANCE_UNIT = DistanceUnit.KILOMETERS;
   
-  protected static final ESLogger logger = ESLoggerFactory.getLogger(GeoDistanceSearch.class.getName());
+  protected static final ESLogger logger = ESLoggerFactory.getLogger(GeoDistanceSearchTest.class.getName());
 
   /**
    * When we start a test, we index cities with s-coordinates

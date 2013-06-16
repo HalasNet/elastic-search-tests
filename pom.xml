@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>blog.hashmade.elasticsearch</groupId>
-  <artifactId>hands-on</artifactId>
+  <artifactId>es-java-tests</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>hands-on</name>
+  <name>es-java-tests</name>
   <url>http://maven.apache.org</url>
 
   <licenses>
@@ -31,15 +31,19 @@
 			<url>http://www.nettrade.fr</url>
 			<timezone>+1</timezone>
 		</developer>
-		
-
 	</developers>
 
 	<scm>
-		<connection>scm:git:https://github.com/elasticsearchfr/hands-on.git</connection>
-		<url>scm:git:https://github.com/elasticsearchfr/hands-on.git</url>
-		<developerConnection>scm:git:https://github.com/elasticsearchfr/hands-on.git</developerConnection>
+		<connection>scm:git:https://github.com/jsebrien/elastic-search-tests.git</connection>
+		<url>scm:git:https://github.com/jsebrien/elastic-search-tests.git</url>
+		<developerConnection>scm:git:https://github.com/jsebrien/elastic-search-tests.git</developerConnection>
 	</scm>
+
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/jsebrien/elastic-search-tests/issues</url>
+	</issueManagement>
+	
 	<build>
 		<plugins>
 			<plugin>
