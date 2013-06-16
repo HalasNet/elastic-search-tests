@@ -7,12 +7,12 @@ public class City implements Serializable {
   private static final long serialVersionUID = 1L;
   
   private String name;
-  private String location;
+  private String coordinates;
   
-  protected City(String name, String location) {
+  protected City(String name, String coordinates) {
     super();
     this.name = name;
-    this.location = location;
+    this.coordinates = coordinates;
   }
 
   public String getName() {
@@ -23,13 +23,12 @@ public class City implements Serializable {
     this.name = name;
   }
 
-  public String getLocation() {
-    return location;
+  public String getCoordinates() {
+    return coordinates;
   }
 
-  public void setLocation(String location) {
-    this.location = location;
+  public void setCoordinates(String coordinates) {
+    this.coordinates = coordinates;
   }
-
 
 }

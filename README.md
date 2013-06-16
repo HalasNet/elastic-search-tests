@@ -1,4 +1,4 @@
-elastic-search-tests
+Elastic search use cases
 ====================
 This repo contains unit tests, describing ES real life use cases, using only the native JAVA API.
 

@@ -108,7 +108,7 @@ public class GeoDistanceSearchTest extends StartNode {
     logger.info("Origin longitude: "+ORIGIN_CITY_LON);
     logger.info("Distance from origin: "+DISTANCE_FROM_ORIGIN+ " " + DISTANCE_UNIT);
     logger.info("Max results limit: "+NB_MAX_RESULTS);
-    GeoDistanceFilterBuilder geoDistanceFilterBuilder = FilterBuilders.geoDistanceFilter("location")
+    GeoDistanceFilterBuilder geoDistanceFilterBuilder = FilterBuilders.geoDistanceFilter("coordinates")
       .point(ORIGIN_CITY_LAT, ORIGIN_CITY_LON)
       .distance(DISTANCE_FROM_ORIGIN, DISTANCE_UNIT)
       .optimizeBbox("memory")        // Can be also "indexed" or "none"
@@ -120,12 +120,12 @@ public class GeoDistanceSearchTest extends StartNode {
     .setFrom(0)
     .setSize(NB_MAX_RESULTS)
     .addFields("name")
-    .addSort(SortBuilders.geoDistanceSort("location")
+    .addSort(SortBuilders.geoDistanceSort("coordinates")
         .order(SortOrder.DESC)
         .point(ORIGIN_CITY_LAT, ORIGIN_CITY_LON)
         .unit(DISTANCE_UNIT))
     .addFacet(FacetBuilders.geoDistanceFacet("GeoDistanceFacet")
-        .field("location")
+        .field("coordinates")
         .point(ORIGIN_CITY_LAT, ORIGIN_CITY_LON)
         //.addUnboundedFrom(10)
         .addRange(0, DISTANCE_FROM_ORIGIN)
@@ -163,7 +163,7 @@ public class GeoDistanceSearchTest extends StartNode {
       .startObject()
       .startObject("city")
       .startObject("properties")
-      .startObject("location")
+      .startObject("coordinates")
       .field("type", "geo_point")
       .endObject()
       .startObject("name")
