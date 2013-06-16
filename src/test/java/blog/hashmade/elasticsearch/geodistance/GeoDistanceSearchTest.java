@@ -169,7 +169,7 @@ public class GeoDistanceSearchTest extends StartNode {
       .startObject("name")
       .field("type", "string")
       .field("index", "no")//http://www.elasticsearch.org/guide/reference/mapping/core-types/
-      .field("include_in_all", false)// n'a pas l'air de marcher
+      .field("include_in_all", false)
       .endObject()
       .endObject()
       .endObject()
