@@ -26,10 +26,10 @@ Run tests
 
 mvn test
 
-Test cases
+Use cases
 -------
 
-###  First test: 
+###  Geodistance search
 
 751 cities are indexed, then perform a search to find cities far by 1000 km from Paris. 
 Search results are showed in reversed order (the farthest displayed first).
@@ -48,7 +48,8 @@ Search parameters can be changed, using the following constants:
 
 `DISTANCE_UNIT` (default : DistanceUnit.KILOMETERS)
 
-###  more tests to come.
+###  More to come
 
 Some code snippets are taken from tests provided by David Pilato (aka dadoonet):
+
 https://github.com/elasticsearchfr/elasticsearch-java-tests
