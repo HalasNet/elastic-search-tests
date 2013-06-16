@@ -1,0 +1,751 @@
+Aba;5.1;7.35
+Abeokuta;7.16;3.35
+Abidjan;5.33;-4.03
+Abu Dhabi;24.48;54.37
+Abuja;9.06;7.49
+Acapulco;16.85;-99.92
+Accra;5.56;-0.2
+ad-Dammam;26.43;50.1
+Adana;37;35.32
+Addis Abeba;9.03;38.74
+Adelaide;-34.93;138.6
+Agadir;30.42;-9.61
+Agra;27.19;78.01
+Aguascalientes;21.88;-102.3
+Ahmadabad;23.03;72.58
+Ahvaz;31.28;48.72
+Ajmer;26.45;74.64
+Akure;7.25;5.19
+al-'Ayn;24.23;55.74
+al-Basrah;30.53;47.82
+al-H?artum Bah?ri;15.64;32.52
+al-H?illah;32.48;44.43
+al-Madinah;24.48;39.59
+al-Mawsil;36.34;43.14
+Albuquerque;35.12;-106.62
+Aleppo;36.23;37.17
+Alexandria;31.22;29.95
+Algiers;36.77;3.04
+Aligarh;27.89;78.06
+Allahabad;25.45;81.84
+Almaty;43.32;76.92
+Ampang Jaya;3.15;101.77
+Amravati;20.95;77.76
+Amritsar;31.64;74.87
+Amsterdam;52.37;4.89
+an-Najaf;32;44.34
+Ankara;39.93;32.85
+Ansan;37.35;126.86
+Anshan;41.12;122.95
+Antalya;36.89;30.71
+Antananarivo;-18.89;47.51
+Antipolo;14.59;121.18
+Anyang;36.08;114.35
+Anyang;37.39;126.92
+Aparecida de Goiania;-16.82;-49.24
+Aracaju;-10.91;-37.07
+Arequipa;-16.39;-71.53
+as-Sulaymaniyah;35.56;45.43
+Asgabat;37.95;58.38
+Asmara;15.33;38.94
+Asuncion;-25.3;-57.63
+at-Ta'if;21.26;40.38
+Athens;37.98;23.73
+Atlanta;33.76;-84.42
+Aurangabad;19.89;75.32
+Austin;30.31;-97.75
+Bagdad;33.33;44.44
+Bahawalpur;29.39;71.67
+Baku;40.39;49.86
+Baltimore;39.3;-76.61
+Bamako;12.65;-7.99
+Bandar Lampung;-5.44;105.27
+Bandung;-6.91;107.6
+Bangalore;12.97;77.56
+Bangkok;13.73;100.5
+Bangui;4.36;18.56
+Banjarmasin;-3.33;114.59
+Banqiao;25.02;121.44
+Baoding;38.87;115.48
+Baotou;40.6;110.05
+Barcelona;41.4;2.17
+Barcelona;10.13;-64.72
+Bareli;28.36;79.41
+Barnaul;53.36;83.75
+Barquisimeto;10.05;-69.3
+Barranquilla;10.96;-74.8
+Bayrut;33.89;35.5
+Bekasi;-6.22;106.97
+Belem;-1.44;-48.5
+Belgrade;44.83;20.5
+Belo Horizonte;-19.92;-43.94
+Bengbu;32.95;117.33
+Benghazi;32.12;20.07
+Benin;6.34;5.62
+Benoni;-26.15;28.33
+Benxi;41.33;123.75
+Berlin;52.52;13.38
+Bhatpara;22.89;88.42
+Bhavnagar;21.79;72.13
+Bhilai;21.21;81.38
+Bhiwandi;19.3;73.05
+Bhopal;23.24;77.4
+Bhubaneswar;20.27;85.84
+Bikaner;28.03;73.32
+Birmingham;52.48;-1.91
+Biskek;42.87;74.57
+Blantyre;-15.79;34.99
+Bloemfontein;-29.15;26.23
+Bogor;-6.58;106.79
+Bogota;4.63;-74.09
+Boma;-5.85;13.05
+Bombay;18.96;72.82
+Boston;42.34;-71.02
+Bouake;7.69;-5.03
+Brasilia;-15.78;-47.91
+Brazzaville;-4.25;15.26
+Bremen;53.08;8.81
+Brisbane;-27.46;153.02
+Brussels;50.83;4.33
+Bucaramanga;7.13;-73.13
+Bucharest;44.44;26.1
+Budapest;47.51;19.08
+Buenos Aires;-34.61;-58.37
+Bulawayo;-20.17;28.58
+Bursa;40.2;29.08
+Cagayan;8.45;124.67
+Cairo;30.06;31.25
+Calamba;14.21;121.15
+Calcutta;22.57;88.36
+Calgary;51.05;-114.06
+Cali;3.44;-76.52
+Campinas;-22.91;-47.08
+Campo Grande;-20.45;-54.63
+Cancun;21.17;-86.83
+Cangzhou;38.32;116.87
+Cape Town;-33.93;18.46
+Caracas;10.54;-66.93
+Cartagena;10.4;-75.5
+Casablanca;33.6;-7.62
+Cebu;10.32;123.9
+Chandigarh;30.75;76.78
+Changchun;43.87;125.35
+Changde;29.03;111.68
+Changsha;28.2;112.97
+Changwon;35.27;128.62
+Changzhi;35.22;111.75
+Changzhou;31.78;119.97
+Charlotte;35.2;-80.83
+Chattagam;22.33;91.81
+Chelyabinsk;55.15;61.43
+Chengdu;30.67;104.07
+Chiba;35.61;140.11
+Chicago;41.84;-87.68
+Chiclayo;-6.76;-79.84
+Chihuahua;28.63;-106.08
+Chimalhuacan;19.44;-98.96
+Chisinau;47.03;28.83
+Chongju;36.64;127.5
+Chongqing;29.57;106.58
+Chonju;35.83;127.14
+Ciudad Guayana;8.37;-62.62
+Cochabamba;-17.38;-66.17
+Cologne;50.95;6.97
+Colombo;6.93;79.85
+Columbus;39.99;-82.99
+Conakry;9.55;-13.67
+Contagem;-19.91;-44.1
+Cordoba;-31.4;-64.19
+Cotonou;6.36;2.44
+Cracow;50.06;19.96
+Cuautitlan Izcalli;19.65;-99.25
+Cucuta;7.88;-72.51
+Cuiaba;-15.61;-56.09
+Culiacan;24.8;-107.39
+Curitiba;-25.42;-49.29
+Dadiangas;6.1;125.25
+Dakar;14.72;-17.48
+Dalian;38.92;121.65
+Dallas;32.79;-96.77
+Damascus;33.5;36.32
+Dandong;40.13;124.4
+Dar es Salaam;-6.82;39.28
+Dasmarinas;14.33;120.93
+Datong;40.08;113.3
+Davao;7.11;125.63
+Dehra Dun;30.34;78.05
+Delhi;28.67;77.21
+Denver;39.77;-104.87
+Depok;-6.39;106.83
+Detroit;42.38;-83.1
+Dhaka;23.7;90.39
+Diyarbak?r;37.92;40.23
+Djibouti;11.59;43.15
+Dnipropetrovs'k;48.45;34.98
+Donetsk;48;37.82
+Dortmund;51.51;7.48
+Douala;4.06;9.71
+Dresden;51.05;13.74
+Dubai;25.27;55.33
+Dublin;53.33;-6.25
+Duque de Caxias;-22.77;-43.31
+Durban;-29.87;30.99
+Durgapur;23.5;87.31
+Dushanbe;38.57;68.78
+Dusseldorf;51.24;6.79
+Ecatepec;19.6;-99.05
+Edmonton;53.57;-113.54
+El Alto;-16.5;-68.17
+El Paso;31.85;-106.44
+Enugu;6.44;7.51
+Esfahan;32.68;51.68
+Eskisehir;39.79;30.52
+Essen;51.47;7
+Faisalabad;31.41;73.11
+Faridabad;28.38;77.3
+Feira de Santana;-12.25;-38.97
+Fez;34.05;-5
+Fort Worth;32.75;-97.34
+Fortaleza;-3.78;-38.59
+Foshan;23.03;113.12
+Frankfurt;50.12;8.68
+Freetown;8.49;-13.24
+Fukuoka;33.59;130.41
+Funabashi;35.7;139.99
+Fushun;41.87;123.88
+Fuxin;42.01;121.65
+Fuzhou;26.08;119.3
+Gaoxiong;22.63;120.27
+Garoua;9.3;13.39
+Gaziantep;37.07;37.39
+Gazzah;31.53;34.44
+Genoa;44.42;8.93
+Ghaziabad;28.66;77.41
+Gizeh;30.01;31.21
+Glasgow;55.87;-4.27
+Goiania;-16.72;-49.26
+Gold Coast;-28.07;153.44
+Gorakhpur;26.76;83.36
+Goteborg;57.72;12.01
+Guadalajara;20.67;-103.35
+Guadalupe;25.68;-100.26
+Guangzhou;23.12;113.25
+Guarulhos;-23.46;-46.49
+Guatemala;14.63;-90.55
+Guayaquil;-2.21;-79.9
+Guilin;25.28;110.28
+Guiyang;26.58;106.72
+Gujranwala;32.16;74.18
+Gulbarga;17.34;76.82
+Guntur;16.31;80.44
+Guwahati;26.19;91.75
+Gwalior;26.23;78.17
+H?amah;35.15;36.73
+H?ims;34.73;36.72
+Ha Noi;21.03;105.84
+Hachioji;35.66;139.33
+Hai Phong;20.86;106.68
+Haikou;20.05;110.32
+Hamamatsu;34.72;137.73
+Hamburg;53.55;10
+Hamhung;39.91;127.54
+Hamilton;43.26;-79.85
+Handan;36.58;114.48
+Hangzhou;30.25;120.17
+Hanover;52.4;9.73
+Haora;22.58;88.33
+Harare;-17.82;31.05
+Harbin;45.75;126.65
+Havanna;23.13;-82.39
+Hefei;31.85;117.28
+Hegang;47.4;130.37
+Helsinki;60.17;24.94
+Hengyang;26.89;112.62
+Hermosillo;29.07;-110.97
+Higashiosaka;34.67;135.59
+Hiroshima;34.39;132.44
+Ho Chi Minh City;10.78;106.69
+Hohhot;40.82;111.64
+Houston;29.77;-95.39
+Huaibei;33.95;116.75
+Huainan;32.63;116.98
+Huaiyin;33.58;119.03
+Huangshi;30.22;115.1
+Hubli;15.36;75.13
+Hyderabad;17.4;78.48
+Hyderabad;25.38;68.37
+Ibadan;7.38;3.93
+Ife;7.48;4.56
+Ilorin;8.49;4.55
+Inchon;37.48;126.64
+Indianapolis;39.78;-86.15
+Indore;22.72;75.86
+Ipoh;4.6;101.07
+Irbil;36.18;44.01
+Irkutsk;52.33;104.24
+Islamabad;33.72;73.06
+Istanbul;41.1;29
+Izhevsk;56.85;53.23
+Izmir;38.43;27.15
+Jabalpur;23.17;79.94
+Jaboatao;-8.11;-35.02
+Jacksonville;30.33;-81.66
+Jaipur;26.92;75.8
+Jakarta;-6.18;106.83
+Jalandhar;31.33;75.57
+Jammu;32.71;74.85
+Jamnagar;22.47;70.07
+Jamshedpur;22.79;86.2
+Jerusalem;31.78;35.22
+Jiamusi;46.83;130.35
+Jiangmen;22.58;113.08
+Jiaozuo;35.25;113.22
+Jiddah;21.5;39.17
+Jilin;43.85;126.55
+Jinan;36.67;117
+Jinzhou;41.12;121.1
+Jiulong;22.32;114.17
+Joao Pessoa;-7.12;-34.86
+Jodhpur;26.29;73.02
+Johannesburg;-26.19;28.04
+Johor Bahru;1.48;103.75
+Joinville;-26.32;-48.84
+Jos;9.93;8.89
+Juarez;31.74;-106.49
+K?benhavn;55.67;12.58
+Kabul;34.53;69.17
+Kaduna;10.52;7.44
+Kagoshima;31.59;130.56
+Kaifeng;34.85;114.35
+Kalyan;19.25;73.16
+Kampala;0.32;32.58
+Kananga;-5.89;22.4
+Kano;12;8.52
+Kanpur;26.47;80.33
+Karachi;24.86;67.01
+Karaj;35.8;50.97
+Kataka;20.47;85.88
+Kathmandu;27.71;85.31
+Kawasaki;35.53;139.7
+Kayseri;38.74;35.48
+Kazan;55.75;49.13
+Kerman;30.3;57.08
+Kermanshah;34.38;47.06
+Khabarovsk;48.42;135.12
+Kharkiv;49.98;36.22
+Khartoum;15.58;32.52
+Khulna;22.84;89.56
+Kiev;50.43;30.52
+Kigali;-1.94;30.06
+Kingston;17.99;-76.8
+Kinshasa;-4.31;15.32
+Kirkuk;35.47;44.39
+Kisangani;0.53;25.19
+Kitakyushu;33.88;130.86
+Klang;3.04;101.45
+Kobe;34.68;135.17
+Kolhapur;16.7;74.22
+Kolwezi;-10.7;25.66
+Konya;37.88;32.48
+Kota;25.18;75.83
+Kota Kinabalu;5.97;116.07
+Koyampattur;11.01;76.96
+Koyang;37.7;126.93
+Krasnodar;45.03;38.98
+Krasnoyarsk;56.02;93.06
+Kryvyy Rih;47.92;33.35
+Kuala Lumpur;3.16;101.71
+Kuching;1.55;110.34
+Kumamoto;32.8;130.71
+Kumasi;6.69;-1.63
+Kunming;25.05;102.7
+Kwangju;35.16;126.91
+Kyoto;35.01;135.75
+L'viv;49.83;24
+La Paz;-16.5;-68.15
+La Plata;-34.92;-57.96
+Lagos;6.5;3.35
+Lahore;31.56;74.35
+Lakhnau;26.85;80.92
+Langfang;39.52;116.68
+Lanzhou;36.05;103.68
+Las Vegas;36.21;-115.22
+Leipzig;51.35;12.4
+Leon;21.12;-101.69
+Liaoyang;41.28;123.18
+Libreville;0.39;9.45
+Lilongwe;-13.97;33.8
+Lima;-12.07;-77.05
+Lipetsk;52.62;39.62
+Liuzhou;24.28;109.25
+Lome;6.17;1.35
+London;51.52;-0.1
+Londrina;-23.3;-51.18
+Lopez Mateos;19.57;-99.26
+Los Angeles;34.11;-118.41
+Louisville;38.22;-85.74
+Luancheng;37.88;114.65
+Luanda;-8.82;13.24
+Lubumbashi;-11.66;27.48
+Ludhiana;30.91;75.84
+Luoyang;34.68;112.47
+Lusaka;-15.42;28.29
+Maanshan;31.73;118.48
+Maceio;-9.65;-35.75
+Madras;13.09;80.27
+Madrid;40.42;-3.71
+Madurai;9.92;78.12
+Maiduguri;11.85;13.16
+Maisuru;12.31;76.65
+Makasar;-5.14;119.41
+Malaga;36.72;-4.42
+Malang;-7.98;112.62
+Managua;12.15;-86.27
+Manaus;-3.12;-60.02
+Mandalay;21.98;96.09
+Manila;14.62;120.97
+Maoming;21.92;110.87
+Maputo;-25.95;32.57
+Mar del Plata;-38;-57.58
+Maracaibo;10.73;-71.66
+Maracay;10.33;-67.47
+Marrakesh;31.63;-8
+Marseille;43.31;5.37
+Mashhad;36.27;59.57
+Matola;-25.97;32.46
+Matsuyama;33.84;132.77
+Maturin;9.75;-63.17
+Mbuji-Mayi;-6.13;23.59
+Mecca;21.43;39.82
+Medan;3.59;98.67
+Medellin;6.29;-75.54
+Meknes;33.9;-5.56
+Melbourne;-37.81;144.96
+Memphis;35.11;-90.01
+Mendoza;-32.89;-68.83
+Merida;20.97;-89.62
+Mersin;36.81;34.63
+Mexicali;32.65;-115.47
+Mexico City;19.43;-99.14
+Milan;45.48;9.19
+Milwaukee;43.06;-87.97
+Minsk;53.91;27.55
+Mira Bhayandar;19.29;72.85
+Mirat;28.99;77.7
+Mixco;14.64;-90.6
+Mombasa;-4.04;39.66
+Monrovia;6.31;-10.8
+Monterrey;25.67;-100.32
+Montevideo;-34.87;-56.17
+Montreal;45.52;-73.57
+Moradabad;28.84;78.76
+Morelia;19.72;-101.18
+Moscow;55.75;37.62
+Mudanjiang;44.58;129.6
+Multan;30.2;71.45
+Munich;48.14;11.58
+Muqdisho;2.05;45.33
+Mwanza;-2.52;32.89
+Mykolayiv;46.97;32
+N'Djamena;12.11;15.05
+Naberezhnyye Chelny;55.69;52.32
+Nagoya;35.15;136.91
+Nagpur;21.16;79.08
+Nairobi;-1.29;36.82
+Nanchang;28.68;115.88
+Nanded;19.17;77.29
+Nanjing;32.05;118.78
+Nanning;22.82;108.32
+Nantong;32.02;120.82
+Naples;40.85;14.27
+Narayanganj;23.62;90.5
+Nashik;20.01;73.78
+Nashville;36.17;-86.78
+Natal;-5.8;-35.22
+Naucalpan;19.48;-99.23
+Navi Mumbai;19.11;73.06
+Neijiang;29.58;105.05
+New York;40.67;-73.94
+Nezahualcoyotl;19.41;-99.03
+Niamey;13.52;2.12
+Niigata;37.92;139.04
+Ningbo;29.88;121.55
+Niyala;12.06;24.89
+Nizhniy Novgorod;56.33;44
+Nouakchott;18.09;-15.98
+Nova Iguacu;-22.74;-43.47
+Novokuznetsk;53.75;87.1
+Novosibirsk;55.04;82.93
+Nuremberg;49.45;11.05
+Odesa;46.47;30.73
+Okayama;34.67;133.92
+Oklahoma City;35.47;-97.51
+Omsk;55;73.4
+Onitsha;6.14;6.78
+Orenburg;51.78;55.1
+Orumiyeh;37.53;45
+Osaka;34.68;135.5
+Osasco;-23.53;-46.78
+Oshogbo;7.77;4.56
+Oslo;59.91;10.75
+Ottawa;45.42;-75.71
+Ouagadougou;12.37;-1.53
+Padang;-0.95;100.35
+Palembang;-2.99;104.75
+Palermo;38.12;13.36
+Panjin;41.18;122.05
+Paris;48.86;2.34
+Patna;25.62;85.13
+Pekan Baru;0.56;101.43
+Peking;39.93;116.4
+Perm;58;56.25
+Perth;-31.96;115.84
+Peshawar;34.01;71.54
+Petaling Jaya;3.1;101.62
+Petare;10.52;-66.83
+Philadelphia;40.01;-75.13
+Phnum Penh;11.57;104.92
+Phoenix;33.54;-112.07
+Pietermaritzburg;-29.61;30.39
+Pimpri;18.62;73.8
+Pingdingshan;33.73;113.3
+Pointe Noire;-4.77;11.87
+Port Elizabeth;-33.96;25.59
+Port Harcourt;4.81;7.01
+Port Said;31.26;32.29
+Port-au-Prince;18.54;-72.34
+Portland;45.54;-122.66
+Porto Alegre;-30.04;-51.22
+Poznan;52.4;16.9
+Prague;50.08;14.43
+Pretoria;-25.73;28.22
+Puchon;37.48;126.77
+Puebla;19.05;-98.22
+Puente Alto;-33.61;-70.57
+Pune;18.53;73.84
+Pusan;35.11;129.03
+Puyang;35.7;114.98
+Pyongyang;39.02;125.75
+Qingdao;36.07;120.32
+Qinhuangdao;39.93;119.62
+Qiqihar;47.35;124
+Qom;34.65;50.95
+Quebec;46.82;-71.23
+Queretaro;20.59;-100.4
+Quetta;30.21;67.02
+Quito;-0.19;-78.5
+Rabat;34.02;-6.84
+Raipur;21.24;81.63
+Rajkot;22.31;70.79
+Rajpur;22.44;88.44
+Rajshahi;24.37;88.59
+Ranchi;23.36;85.33
+Rangoon;16.79;96.15
+Rawalpindi;33.6;73.04
+Recife;-8.08;-34.92
+Resht;37.3;49.63
+Reynosa;26.08;-98.28
+Ribeirao das Neves;-19.76;-44.08
+Ribeirao Preto;-21.17;-47.8
+Riga;56.97;24.13
+Rio de Janeiro;-22.91;-43.2
+Riyadh;24.65;46.77
+Rome;41.89;12.5
+Rongcheng;23.54;116.34
+Rosario;-32.94;-60.67
+Rostov-na-Donu;47.24;39.71
+Rotterdam;51.93;4.48
+Ryazan;54.62;39.74
+Sagamihara;35.58;139.38
+Saharanpur;29.97;77.54
+Saint Petersburg;59.93;30.32
+Saitama;35.87;139.64
+Sakai;34.57;135.48
+Salem;11.67;78.16
+Salta;-24.79;-65.41
+Saltillo;25.42;-101
+Salvador;-12.97;-38.5
+Samara;53.2;50.15
+San Antonio;29.46;-98.51
+San Diego;32.81;-117.14
+San Francisco;37.77;-122.45
+San Jose;37.3;-121.85
+San Luis Potosi;22.16;-100.98
+San Nicolas de los Garza;25.75;-100.3
+San Pedro Sula;15.47;-88.03
+San Salvador;13.69;-89.19
+San'a;15.38;44.21
+Sangli-Miraj;16.86;74.57
+Santa Cruz;-17.77;-63.21
+Santa Fe;-31.6;-60.69
+Santiago;-33.46;-70.64
+Santiago;19.48;-70.69
+Santo Andre;-23.65;-46.53
+Santo Domingo;18.48;-69.91
+Sao Bernardo do Campo;-23.71;-46.54
+Sao Goncalo;-22.84;-43.07
+Sao Jose dos Campos;-23.2;-45.88
+Sao Luis;-2.5;-44.3
+Sao Paulo;-23.53;-46.63
+Sapporo;43.06;141.34
+Saratov;51.57;46.03
+Sargodha;32.08;72.67
+Seattle;47.62;-122.35
+Semarang;-6.97;110.42
+Sendai;38.26;140.89
+Sevilla;37.4;-5.98
+Shah Alam;3.07;101.56
+Shanghai;31.23;121.47
+Shantou;23.37;116.67
+Shaoguan;24.8;113.58
+Shaoyang;27;111.2
+Sharjah;25.37;55.41
+Shashi;30.32;112.23
+Shatian;22.38;114.19
+Shenyang;41.8;123.45
+Shenzhen;22.53;114.13
+Shihezi;44.3;86.03
+Shihung;37.46;126.89
+Shijiazhuang;38.05;114.48
+Shiliguri;26.73;88.42
+Shiraz;29.63;52.57
+Shizuoka;34.98;138.39
+Sholapur;17.67;75.89
+Shubra-El-Khema;30.11;31.25
+Singapore;1.3;103.85
+Siping;43.17;124.33
+Sofia;42.69;23.31
+Soledad;10.92;-74.77
+Songnam;37.44;127.15
+Sorocaba;-23.49;-47.47
+Soul;37.56;126.99
+Soweto;-26.28;27.84
+Srinagar;34.09;74.79
+Stockholm;59.33;18.07
+Stuttgart;48.79;9.19
+Subang Jaya;3.15;101.53
+Suez;29.98;32.54
+Surabaya;-7.24;112.74
+Surakarta;-7.57;110.82
+Surat;21.2;72.82
+Suwon;37.26;127.01
+Suzhou;31.3;120.62
+Sydney;-33.87;151.21
+Ta'izz;13.6;44.04
+Tabriz;38.08;46.3
+Tabuk;28.39;36.57
+Taegu;35.87;128.6
+Taejon;36.33;127.43
+Taian;36.2;117.12
+Taibei;25.02;121.45
+Tainan;23;120.19
+Taiyuan;37.87;112.55
+Taizhong;24.15;120.68
+Taizhou;32.49;119.9
+Tangerang;-6.18;106.63
+Tanggu;39;117.67
+Tangier;35.79;-5.81
+Tangshan;39.62;118.19
+Tashkent;41.31;69.3
+Tbilisi;41.72;44.79
+Tegucigalpa;14.09;-87.22
+Tehran;35.67;51.43
+Tembisa;-25.99;28.22
+Teresina;-5.1;-42.8
+Thana;19.2;72.97
+Thiruvananthapuram;8.51;76.95
+Tianjin;39.13;117.2
+Tijuana;32.53;-117.02
+Tiruchchirappalli;10.81;78.69
+Tlalnepantla;19.54;-99.19
+Tlaquepaque;20.64;-103.32
+Tokyo;35.67;139.77
+Toluca;19.29;-99.67
+Tolyatti;53.48;49.51
+Toronto;43.65;-79.38
+Torreon;25.55;-103.43
+Tripoli;32.87;13.18
+Trujillo;-8.11;-79.03
+Tucson;32.2;-110.89
+Tucuman;-26.83;-65.22
+Tunis;36.84;10.22
+Turin;45.08;7.68
+Tuxtla Gutierrez;16.75;-93.12
+Tyumen;57.15;65.53
+Uberlandia;-18.9;-48.28
+Ufa;54.78;56.04
+Uijongbu;37.74;127.04
+Ulaanbaatar;47.93;106.91
+Ulhasnagar;19.23;73.15
+Ulsan;35.55;129.31
+Ulyanovsk;54.33;48.4
+Umm Durman;15.65;32.48
+Urumqi;43.8;87.58
+Vadodara;22.31;73.18
+Valencia;10.23;-67.98
+Valencia;39.48;-0.39
+Vancouver;49.28;-123.13
+Varanasi;25.32;83.01
+Veracruz;19.19;-96.14
+Vienna;48.22;16.37
+Vijayawada;16.52;80.63
+Villa Nueva;14.53;-90.59
+Vilnius;54.7;25.27
+Visakhapatnam;17.73;83.3
+Vladivostok;43.13;131.9
+Volgograd;48.71;44.48
+Voronezh;51.72;39.26
+Wahran;35.7;-0.62
+Warangal;18.01;79.58
+Warri;5.52;5.76
+Warsaw;52.26;21.02
+Washington;38.91;-77.02
+Welkom;-27.97;26.73
+Wenzhou;28.02;120.65
+Winnipeg;49.88;-97.17
+Wroc?aw;51.11;17.03
+Wuhan;30.58;114.27
+Wuhu;31.35;118.37
+Wuxi;31.58;120.3
+Xiamen;24.45;118.08
+Xian;34.27;108.9
+Xianggangdao;22.27;114.14
+Xiangtan;27.85;112.9
+Xianyang;34.37;108.7
+Xigong;22.33;114.25
+Xingtai;37.07;114.49
+Xining;36.62;101.77
+Xinxiang;35.32;113.87
+Xinyang;32.13;114.07
+Xuchang;34.02;113.82
+Xuzhou;34.27;117.18
+Yancheng;33.39;120.12
+Yangzhou;32.4;119.43
+Yantai;37.53;121.4
+Yaounde;3.87;11.52
+Yaroslavl;57.62;39.87
+Yekaterinburg;56.85;60.6
+Yerevan;40.17;44.52
+Yingkou;40.67;122.28
+Yogyakarta;-7.78;110.37
+Yokohama;35.47;139.62
+Yuanlong;22.44;114.02
+Yueyang;29.38;113.1
+Zagreb;45.8;15.97
+Zahedan;29.5;60.83
+Zamboanga;6.92;122.08
+Zapopan;20.72;-103.4
+Zaporizhzhya;47.85;35.17
+Zaragoza;41.65;-0.89
+Zaria;11.08;7.71
+Zhangdian;36.8;118.06
+Zhangjiakou;40.83;114.93
+Zhangzhou;24.52;117.67
+Zhanjiang;21.2;110.38
+Zhengzhou;34.75;113.67
+Zhenjiang;32.22;119.43
+Zhuhai;22.28;113.57
+Zhunmen;22.41;113.98
+Zhuzhou;27.83;113.15
+Zigong;29.4;104.78
+Zunyi;27.7;106.92

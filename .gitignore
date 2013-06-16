@@ -1,6 +1,20 @@
 *.class
+*.com
+*.dll
+*.exe
+*.o
+*.so
+*.prefs
+.target
+target
+.classpath
+.project
+data
+*.log
+*.zip
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
