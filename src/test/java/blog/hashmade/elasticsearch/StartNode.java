@@ -2,6 +2,7 @@ package blog.hashmade.elasticsearch;
 
 import java.io.File;
 
+import org.elasticsearch.client.Client;
 import org.elasticsearch.common.io.FileSystemUtils;
 import org.elasticsearch.common.settings.ImmutableSettings;
 import org.elasticsearch.common.settings.Settings;
@@ -26,9 +27,9 @@ public class StartNode {
 			
 			// Then we start our node for tests
 			node = NodeBuilder.nodeBuilder().node();
-
+			Client client = node.client();
 			// We wait now for the yellow (or green) status
-			node.client().admin().cluster().prepareHealth()
+			client.admin().cluster().prepareHealth()
 					.setWaitForYellowStatus().execute().actionGet();
 
 			Assert.assertNotNull(node);
