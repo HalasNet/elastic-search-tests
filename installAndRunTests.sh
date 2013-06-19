@@ -6,5 +6,9 @@ sudo apt-get -y install git
 git clone https://github.com/jsebrien/elastic-search-tests.git
 cd elastic-search-tests
 mvn package
+@echo "Press Enter to start GeoSearchTest..."
 read
-mvn test | more
+mvn test > geo-search-test.log
+@echo "Test Done! Press Enter to see tests execution log"
+read
+more geo-search-test.log
