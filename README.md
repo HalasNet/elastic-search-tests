@@ -47,7 +47,16 @@ Search parameters can be changed, using the following constants:
 
 `DISTANCE_UNIT` (default : DistanceUnit.KILOMETERS)
 
-###  More to come
+###  Scan Search
+
+728 ebooks are indexed, then perform a scan search for ebooks where the word "Biological" is part of their name.
+The list of ebooks is stored in `src/test/resources/ebook2013.csv`
+
+Search parameters can be changed, using the following constants:
+
+`Scroll Size` (default : 5) - retrieve 5 items per request
+
+`TEXT_TO_SEARCH` (default : "Biological")
 
 Some code snippets are taken from tests provided by David Pilato (aka dadoonet):
 
