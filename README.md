@@ -54,7 +54,7 @@ The list of ebooks is stored in `src/test/resources/ebook2013.csv`
 
 Search parameters can be changed, using the following constants:
 
-`Scroll Size` (default : 5) - retrieve 5 items per request
+`SCROLL_SIZE` (default : 5) - retrieve 5 items per request
 
 `TEXT_TO_SEARCH` (default : "Biological")
 

@@ -147,7 +147,7 @@ public class ScanSearchTest extends StartNode {
           for (Text fragment : entry.getValue().getFragments()) {
             builder.append(fragment);
           }
-          builder.append(entry.getKey()).append("] ");
+          builder.append("] ");
 
         }
         logger.info(builder.toString());
